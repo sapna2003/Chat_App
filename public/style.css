@@ -1,0 +1,38 @@
+body{
+    background-color: #6EBF8B;
+}
+h1{
+    margin: 40px 700px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 40px;
+    color: white;
+    font-family: serif;
+
+}
+#login{
+    margin-top: 50px;
+}
+.input-group-icon{
+    background-color: white;
+    border-right: solid 2px black;
+}
+.icon{
+    padding: 10px;
+}
+#user-icon{
+    margin: 20px 150px;
+}
+.para{
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    font-family: serif;
+}
+
+ul li{
+    text-overflow: clip;
+}
+
